@@ -10,7 +10,7 @@ window.CITY = {
   comunasGeojson: "comunas_calama.geojson",
   live: false,
   liveBase: "",
-  demanda: false,
+  demanda: true,
   repo: "transportepublicoCalama",
   voz: {"ejeSing": "eje", "ejePlur": "ejes", "EjePlur": "Ejes"},
 };
